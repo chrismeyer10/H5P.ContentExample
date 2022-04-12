@@ -1,0 +1,13 @@
+.example_button_class{
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #b5dee7;
+  border: solid 1px;
+  color: #1e363b;
+  text-align: center;
+  font-size: 15px;
+  width: 150px;
+  height: 30px;
+  transition: all 0.5s;
+  cursor: pointer;
+}

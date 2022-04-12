@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Titel für den Button",
+    "name": "titelExample",
+    "default": "default Name",
+    "type": "text",
+    "description": "Titel Button"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "_comment": "-----------------  Mandatory properties  -----------------",
+  "title": "Example",
+  "machineName": "H5P.ContentExample",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 1,
+  "runnable": 1,
+
+  "_comment": "-----------------  Optional properties  -----------------",
+  "description": "Beispiel zum Erstellen von Inhaltstypen",
+  "author": "CM",
+  "license": "MIT",
+  "preloadedJs": [
+    {
+      "path": "contentexample.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "contentexample.css"
+    }
+  ]
+}
